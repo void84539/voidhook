@@ -1,2 +1,2 @@
 # voidhook
-my discord webhook spammer
+pass is void
